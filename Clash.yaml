@@ -490,7 +490,7 @@ proxy-groups:
 proxy-providers:
   all-proxies:
     type: http
-    url: "https://example.com/your-subscription-url"
+    url: "https://106.55.228.246:36666/hxvip?token=b27347671986eade918254d58216167b"
     interval: 3600
     path: ./providers/all-proxies.yaml
     health-check:
